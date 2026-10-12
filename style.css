@@ -1027,7 +1027,8 @@ textarea.form-control {
   padding-top: 2rem;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
+  text-align: center;
   font-size: 0.8rem;
   color: var(--text-light-muted);
 }
